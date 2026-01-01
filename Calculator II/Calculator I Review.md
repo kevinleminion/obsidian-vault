@@ -1,1 +1,6 @@
-Im LaTeXing it so good right now im $\frac{6}{7}$ $\lim_{x\to0}{\sin x}$ it so good
+  
+<div style="background-color:#0066cc; padding:8px">
+Definitions
+</div>  
+
+Limits: 
