@@ -11,13 +11,14 @@
             "id": "a0595fe97ae769d0",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "Calculator II/Calculator I Review.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Calculator I Review"
             }
           }
         ]
@@ -203,7 +204,9 @@
   },
   "active": "a0595fe97ae769d0",
   "lastOpenFiles": [
+    "Obsidian Basics.md",
     "Calculator II/Calculator I Review.md",
-    "Untitled.base"
+    "Untitled.base",
+    "Untitled.md"
   ]
 }
