@@ -9,6 +9,8 @@ A limit simply *describes the behaviour* of a function as it approaches a certai
 > [!info] 
 > We search for a *trend* in the function rather than the value itself; think of it as the smallest value adjacent to the point. This isn't a value that exists, since decimals expand infinitely.
 
+*A key *
+
 Therefore, we can conclude that a limit will not exist if both the right-side and the left-side approximations do not converge to a single number. 
 ## Derivatives
 The instantaneous rate of change of any given point on the graph, determined through the slope of a tangent line.
