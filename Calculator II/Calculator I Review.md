@@ -8,6 +8,10 @@ A limit simply describes the behaviour of a function as it approaches a certain 
 
 
 ## Derivatives
+The instantaneous rate of change of any given point on the graph, determined through the slope of a tangent line.
+
+> [!warning]
+> You cannot just use the $\frac{\Delta y}{\Delta x}$ formula for a specific point because both values for change will be equal to 0.
 
 
 
