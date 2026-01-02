@@ -7,7 +7,9 @@ Recall that calculus exists to answer the simple question of how we describe thi
 A limit simply describes the behaviour of a function as it approaches a certain value. It doesn't equal anything.
 
 > [!info] 
-> We search for a *trend* in the function rather than the value itself; this 
+> We search for a *trend* in the function rather than the value itself; think of it as the smallest value adjacent to the point. This isn't a value that exists, since decimals expand infinitely.
+
+Therefore, we can conclude that a limit will not exist if both the right-side and the left-side approximations do not converge to a single number. 
 
 
 ## Derivatives
