@@ -9,7 +9,8 @@ A limit simply *describes the behaviour* of a function as it approaches a certai
 > [!info] 
 > We search for a *trend* in the function rather than the value itself; think of it as the smallest value adjacent to the point. This isn't a value that exists, since decimals expand infinitely.
 
-*A key *
+> [!faq]- Why do we care about behaviour near a point?
+> Sometimes the value at the point is meaningless or results in an impossible answer; for example, take division by 0. When x = 0, it is simply undefined, but when we take values *near* 0 it tells something completely different.
 
 Therefore, we can conclude that a limit will not exist if both the right-side and the left-side approximations do not converge to a single number. 
 ## Derivatives
