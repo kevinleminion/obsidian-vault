@@ -7,6 +7,8 @@ Recall that calculus exists to answer the simple question of how we describe thi
 A limit simply describes the behaviour of a function as it approaches a certain value. It doesn't equal anything.
 
 
+## Derivatives
+
 
 
 
