@@ -13,7 +13,7 @@ The instantaneous rate of change of any given point on the graph, determined thr
 > [!warning]
 > You cannot just use the $\frac{\Delta y}{\Delta x}$ formula for a specific point because both values for change will be equal to 0.
 
-
+To work around this caveat, we instead use a **non-zero** interval, one that becomes infinitely small. A **derivative** is then the value that the average rate approaches as the interval shrinks to zero. 
 
 
 
