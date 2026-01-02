@@ -6,6 +6,9 @@ Recall that calculus exists to answer the simple question of how we describe thi
 ## Limits
 A limit simply describes the behaviour of a function as it approaches a certain value. It doesn't equal anything.
 
+> [!info] 
+> We search for a *trend* in the function rather than the value itself; this 
+
 
 ## Derivatives
 The instantaneous rate of change of any given point on the graph, determined through the slope of a tangent line.
