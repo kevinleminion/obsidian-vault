@@ -25,3 +25,7 @@ The formal definition of a derivative then logically follows this definition. Th
 
 	$$f'(a) = \lim\limits_{h \to 0} \frac{f(a + h) - f(a)}{h}$$
 *As $h$ gets closer and closer to 0, does the slope tend toward one single number? If yes, that number is the derivative, if not, the derivative doesn't exist. 
+
+
+## Integration
+Derivatives dealt with 
