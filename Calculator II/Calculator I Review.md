@@ -28,4 +28,4 @@ The formal definition of a derivative then logically follows this definition. Th
 
 
 ## Integration
-Derivatives dealt with 
+Derivatives dealt with slopes of curves, where integration deals with the area of curves. 
