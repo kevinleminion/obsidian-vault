@@ -54,4 +54,7 @@ For our purposes, the limit we use is 0; as the width of each rectangle approach
 
 > [!faq]- What then is the definition of an integral?
 > An integral is the **limit** of this accumulation of rectangles. So, the *signed* area (or number we approach) under the curve as the number of rectangles increases.
-$$\int_0^\infty x\,\mathrm{d}x$$
+$$\int_a^b f(x)\,\mathrm{d}x$$
+1. $a$ and $b$ describe the bounds of the function that you accumulate; so if $a$ and $b$ were 0 and 2, then you would accumulate rectangles from the range $[0:2]$. 
+2. $f(x)$ describes the height of each individual rectangle. So if $f(x)$ is a value above the x-axis, it is a positive contribution, if it is a value below the x-axis it is a negative contribution.
+3. $dx$ 
