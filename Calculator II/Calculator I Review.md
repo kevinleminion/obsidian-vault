@@ -35,6 +35,11 @@ This is because for a sharp point, the slopes on the left and right side both ap
 > For the function $f(x) = \lvert{x}\rvert$, take the corner at $x = 0$. On the left side, the graph has a slope of -1, but on the right side it has a slope of 1. While the limits converge, the slope does not.  
 
 ![[Derivative Rules.png]]
+
+### Chain Rule
+A basic formula that allows the expression of the derivative of the *composition* of two differentiable functions. So basically derivative of a composite function.
+
+
 ## Integration
 Derivatives dealt with slopes of curves, where integration deals with the area of curves. This allows us to ask questions such as "how much has something changed in total", things like total distance travelled or mass compared to density.
 
