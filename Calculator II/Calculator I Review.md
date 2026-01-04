@@ -33,9 +33,12 @@ This is because for a sharp point, the slopes on the left and right side both ap
 
 > [!example]
 > For the function $f(x) = \lvert{x}\rvert$, take the corner at $x = 0$. On the left side, the graph has a slope of -1, but on the right side it has a slope of 1. While the limits converge, the slope does not.  
+
+![[Pasted image 20260103180332.png]]
 ## Integration
 Derivatives dealt with slopes of curves, where integration deals with the area of curves. This allows us to ask questions such as "how much has something changed in total", things like total distance travelled or mass compared to density.
 
 > [!info] 
 > This is simple enough to figure out when you have a rectangle, but what about when you have something like a curve where you can't easily do this?
 
+What we do is split a curve into as many infinitely small rectangles as possible; the precision of this rectangle as it gets smaller increases, and adding up the area of all the rectangles gives us the total area. 
