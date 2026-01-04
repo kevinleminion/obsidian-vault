@@ -1,4 +1,5 @@
 {
   "spellcheck": false,
-  "attachmentFolderPath": "Assets/Math"
+  "attachmentFolderPath": "Assets/Math",
+  "alwaysUpdateLinks": true
 }
