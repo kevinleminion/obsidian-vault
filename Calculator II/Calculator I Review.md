@@ -26,6 +26,12 @@ The formal definition of a derivative then logically follows this definition. Th
 	$$f'(a) = \lim\limits_{h \to 0} \frac{f(a + h) - f(a)}{h}$$
 *As $h$ gets closer and closer to 0, does the slope tend toward one single number? If yes, that number is the derivative, if not, the derivative doesn't exist. 
 
+> [!warning]
+> Derivatives do not exist for sharp points or vertical lines because the limit of the slope is not a unique number.
 
+This is because for a sharp point, the slopes on the left and right side both approach different numbers. The limit of slopes do not converge, therefore the derivative doesn't exist. Vertical lines are much simpler because as you approach a point on the line, the slope grows infinitely. 
+
+> [!example]
+> Worked example
 ## Integration
 Derivatives dealt with slopes of curves, where integration deals with the area of curves. 
