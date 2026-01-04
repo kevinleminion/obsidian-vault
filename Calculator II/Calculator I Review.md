@@ -32,6 +32,6 @@ The formal definition of a derivative then logically follows this definition. Th
 This is because for a sharp point, the slopes on the left and right side both approach different numbers. The limit of slopes do not converge, therefore the derivative doesn't exist. Vertical lines are much simpler because as you approach a point on the line, the slope grows infinitely. 
 
 > [!example]
-> Worked example
+> For the function $f(x) = \lvert{x}\rvert$, take the corner at $x = 0$. On the left side, the graph has a slope of -1, but on the right side it has a slope of 1. While the limits converge, the slope does not.  
 ## Integration
 Derivatives dealt with slopes of curves, where integration deals with the area of curves. 
