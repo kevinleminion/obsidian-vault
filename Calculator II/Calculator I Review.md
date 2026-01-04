@@ -19,7 +19,7 @@ The instantaneous rate of change of any given point on the graph, determined thr
 > [!warning]
 > You cannot just use the $\frac{\Delta y}{\Delta x}$ formula for a specific point because both values for change will be equal to 0.
 
-To work around this caveat, we instead use a **non-zero** interval, one that becomes infinitely small. A **derivative** is then the value that the average rate approaches as the interval shrinks to zero. 
+To get around this caveat, we instead use a **non-zero** interval, one that becomes infinitely small. A **derivative** is then the value that the average rate approaches as the interval shrinks to zero. 
 
 The formal definition of a derivative then logically follows this definition. The change in output divided by the change in input as the change in input itself *approaches zero*.
 
@@ -37,7 +37,7 @@ This is because for a sharp point, the slopes on the left and right side both ap
 ![[Derivative Rules.png]]
 
 ### Chain Rule
-A basic formula that allows the expression of the derivative of the *composition* of two differentiable functions. So basically derivative of a composite function.
+A basic formula that allows the expression of the derivative of the *composition* of two differentiable functions. So basically the derivative of a composite function.
 
 
 ## Integration
@@ -47,3 +47,10 @@ Derivatives dealt with slopes of curves, where integration deals with the area o
 > This is simple enough to figure out when you have a rectangle, but what about when you have something like a curve where you can't easily do this?
 
 What we do is split a curve into as many infinitely small rectangles as possible; the precision of this rectangle as it gets smaller increases, and adding up the area of all the rectangles gives us the total area. 
+
+*There is no smallest interval or size of rectangles. You can infinitely increase the number of rectangles by shrinking the width, which is where limits come back into play.* 
+
+For our purposes, the limit we use is 0; as the width of each rectangle approaches zero, do the accumulated totals of all the rectangles converge to a single number? If so, that number will be the total area of the curve. 
+
+> [!faq]- What then is the definition of an integral?
+> An integral is 
