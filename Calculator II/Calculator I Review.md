@@ -53,4 +53,5 @@ What we do is split a curve into as many infinitely small rectangles as possible
 For our purposes, the limit we use is 0; as the width of each rectangle approaches zero, do the accumulated totals of all the rectangles converge to a single number? If so, that number will be the total area of the curve. 
 
 > [!faq]- What then is the definition of an integral?
-> An integral is 
+> An integral is the **limit** of this accumulation of rectangles. So, the *signed* area (or number we approach) under the curve as the number of rectangles increases.
+$$\int_0^\infty x\,\mathrm{d}x$$

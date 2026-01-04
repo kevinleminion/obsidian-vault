@@ -67,7 +67,7 @@ Same as for the Callouts, simply click on the following symbols to determine the
 - $\frac{\frac{1}{x}+\frac{1}{y}}{y-z}$
 - $\int_0^\infty \mathrm{e}^{-x}\,\mathrm{d}x$
 - $f(x) = \lvert{x}\rvert$ 
-
+- 
 
 
 
