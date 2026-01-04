@@ -62,3 +62,5 @@ $$\int_a^b f(x)\,\mathrm{d}x$$
 > [!tip] 
 > Eventually, we will have to change $dx$. It can even represent entire functions, such as $g(x)$ in the case of a nested function.
 
+### Relationship Between Derivatives
+
