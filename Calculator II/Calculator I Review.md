@@ -64,3 +64,8 @@ $$\int_a^b f(x)\,\mathrm{d}x$$
 
 ### Relationship Between Derivatives
 
+$$\frac{d}{dx}\left(\int_a^b f(t)\,\mathrm{d}t\right) = f(x)$$
+Strangely complex formula, but all it says in reality is that the derivative of the accumulation is the original function. Accumulation undoes differentiation, and vice versa. 
+
+> [!info] 
+> You can probably then come to the conclusion that to calculate an integral, you can compute the antiderivative of a function.
